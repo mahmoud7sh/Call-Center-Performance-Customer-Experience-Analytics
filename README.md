@@ -49,6 +49,13 @@ The details page focuses on service performance and customer experience:
 - Negative-call volume and negative sentiment rate
 - Within-SLA and above-SLA performance
 
+## Dashboard Preview
+
+The dashboard report contains two pages. Open the PDF already included in this repository to view each page:
+
+- [Executive Overview – Page 1](./Call%20Center%20Project%20_%20Dashboard.pdf#page=1)
+- [Performance Details – Page 2](./Call%20Center%20Project%20_%20Dashboard.pdf#page=2)
+
 ## Data & Model
 
 The analysis uses **32,941 call records** and a dataset containing 12 main call-related columns:
